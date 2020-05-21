@@ -1,0 +1,9 @@
+Allergy Reconciliation react redux notes
+
+npx create-react-app allergy-reconciliation
+
+npm install --save redux react-redux
+
+directory is 
+C:\myWork\aaAlRecReact\allergy-reconciliation>
+
